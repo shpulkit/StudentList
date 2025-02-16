@@ -23,7 +23,7 @@ public class StudentList {
     
     public static void main(String[] args)
     {
-       Student [] studentList = new Student[3];//change size before running
+       Student [] studentList = new Student[1];//change size before running
       
        studentList[0]=new Student();
        studentList[0].setName("abc");
