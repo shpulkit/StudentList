@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package studentlist;
-
+// gyugyugty
 /**
  * A class to model Student Objects
  * each student has: a name (first an last name)
